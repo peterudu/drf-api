@@ -62,7 +62,8 @@ DEBUG = 'DEV' in os.environ
 # DEBUG = True
 
 
-ALLOWED_HOSTS = ['localhost', 'djangoframework-api.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'djangoframework-api-7834ad396166.herokuapp.com']
+# djangoframework-api-7834ad396166.herokuapp.com
 # ALLOWED_HOSTS = ['8000-peterudu-drfapi-pn9mm7tpz8u.ws-eu106.gitpod.io', 'localhost']
 
 
